@@ -13,9 +13,7 @@
 
 **Python Version**: 3.11
 **Packages Used**:Pandas, Numpy, Sklearn, Seaborn, Selenium, Flask, Json, Pickle\
-**For Web Framework Requirements**:`pip install -r requirements.txt`
-
-**Scrapper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium
-
-**Scrapper Article**: https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+**For Web Framework Requirements**:`pip install -r requirements.txt`\
+**Scrapper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium\
+**Scrapper Article**: https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905\
 
