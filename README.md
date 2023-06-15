@@ -62,3 +62,21 @@ After looking at the distribution of the data and the value counts for various c
 ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/Screenshot%202023-06-15%20221532.png)       ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download%20(3).png)
 
 ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download%20(1).png) ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download.png) 
+
+## Model Building
+
+Firstly, the categorical variables were transformed into dummy variables, and the data was then split into training and testing sets with a test size of 20%.
+
+The data was trained and tested using three different models and then were further evaluated using Mean Absolute Error. MAE was chosen as it is relatively easy to interpret and outliers weren't particularly bad for this type of model.
+
+The three different models were as follows:
+  + **Multiple Linear Regression** - Baseline for the model
+  + **Lasso Regression** - Because of the sparse data from the many categorical variables, a normalized regression like lasso was found to be effective.
+  + **Random Forest** - With sparsity associated with the data, this model was also found to be a good fit.
+
+## Model Performance
+
+The Random Forest model far outperformed the other approaches on the test and validation sets.
+  + **Random Forest**: MAE = 11.9
+  + **Linear Regression** : MAE = 19.59
+  + **Ridge Regression** : MAE = 19.69
