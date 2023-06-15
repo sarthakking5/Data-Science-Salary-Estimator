@@ -77,6 +77,10 @@ The three different models were as follows:
 ## Model Performance
 
 The Random Forest model far outperformed the other approaches on the test and validation sets.
-  + **Random Forest**: MAE = 11.9
+  + **Random Forest**: MAE = 11.90
   + **Linear Regression** : MAE = 19.59
   + **Ridge Regression** : MAE = 19.69
+
+## Productionization
+
+In this step, a Flask API endpoint was built and hosted on a local webserver. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary.
