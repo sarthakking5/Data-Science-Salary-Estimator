@@ -64,3 +64,5 @@ After looking at the distribution of the data and the value counts for various c
 ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download%20(3).png)
 
 ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download.png)
+
+![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download%20(1).png)
