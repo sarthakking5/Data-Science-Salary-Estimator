@@ -59,6 +59,6 @@ After scraping the data. It was needed to be cleaned to be usable for our model.
 ## Exploratory Data Analysis
 After looking at the distribution of the data and the value counts for various categorical variables. Below are few highlights from the pivot tables.
 
-![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/Screenshot%202023-06-15%20221532.png)         ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download%20(3).png)
+![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/Screenshot%202023-06-15%20221532.png | width=100 )         ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download%20(3).png)
 
 ![alt text](https://github.com/sarthakking5/Data-Science-Salary-Estimator/blob/main/Images/download.png)
