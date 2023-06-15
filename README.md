@@ -36,3 +36,22 @@ Tweaked the web scrapper repo to scrape 1000 job postings from glassdoor.com. Wi
 + Revenue
 + Competitors
   
+## Data Cleaning
+
+After scraping the data. It was needed to be cleaned to be usable for our model. The following changes were made:
+
++ Parsed numeric salary data.
++ Made columns for employer-provided salary and hourly wages.
++ Removed roes without salary.
++ Parsed rating out of company text.
++ Added a column if the job was at the company's headquarters.
++ Transformed founded date to the age of the company.
++ Made columns for different skills listed in the job description:
+    + Python
+    + R
+    + SQL
+    + AWS
+    + Spark
+    + Excel
++ Column for simplified job title and seniority
++ Column for job description length
