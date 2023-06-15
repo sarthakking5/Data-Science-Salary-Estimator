@@ -18,3 +18,7 @@
 **Scrapper Article**: https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 
 ### Web Scrapping
+##
+Tweaked the web scrapper repo to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
+
++ Job title
