@@ -9,7 +9,7 @@
 
 •	Built a client facing API using flask
 
-### Code and Resources Used
+## Code and Resources Used
 ##
 **Python Version**: 3.11
 **Packages Used**:Pandas, Numpy, Sklearn, Seaborn, Selenium, Flask, Json, Pickle\
@@ -17,7 +17,7 @@
 **Scrapper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium \
 **Scrapper Article**: https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 
-### Web Scrapping
+## Web Scrapping
 ##
 Tweaked the web scrapper repo to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
 
