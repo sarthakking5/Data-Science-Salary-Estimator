@@ -78,8 +78,8 @@ The three different models were as follows:
 
 The Random Forest model far outperformed the other approaches on the test and validation sets.
   + **Random Forest**: MAE = 11.90
-  + **Linear Regression** : MAE = 19.59
-  + **Ridge Regression** : MAE = 19.69
+  + **Linear Regression** : MAE = 19.69
+  + **Lasso Regression** : MAE = 19.59
 
 ## Productionization
 
